@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 //create your function here
-const BootstrapCard = ({ text }) => {
+const BootstrapCard = () => {
 	return (
 		<div className="card m-5">
 			<img className="card-img-top" src="https://ucarecdn.com/f8cf81eb-3bab-4bba-9431-668884eab174/-/resize/300x/" alt="Card image cap" />
@@ -21,4 +21,5 @@ const BootstrapCard = ({ text }) => {
 };
 
 //remember to use ReactDOM.render to include the component into the website
+//QUE/DONDE
 ReactDOM.render(<BootstrapCard />, document.querySelector("#myDiv"));

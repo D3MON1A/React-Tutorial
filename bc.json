@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://bea5aa0a-584f-45f3-ba31-e100e0c88c23.ws-us03.gitpod.io",
+    "address": "https://red-newt-e5rc4bd0.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
